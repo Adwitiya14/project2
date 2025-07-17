@@ -2,7 +2,7 @@
 
 int main() {
     int a = 60;
-    float b = 3.3;
+    float b = 3.4;
     float result;
 
     result = a + b;
