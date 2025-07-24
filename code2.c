@@ -10,5 +10,5 @@ int main() {
 
     printf("Sum: %d\n", sum);
 
-    return 0; // return type - integer 
+    return 0; 
 }
