@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    printf("%d", 15<20);
+    printf("%d", 10<20);
     return 0;
 
 }
